@@ -14,7 +14,8 @@ Theme - Education
 - Raise an issue you wanna work on
 - Fork the Repo
 - Clone the Repo in your local system
-- work on the issue you have taken
+- create a different branch and work on your issue in that branch only
+- branch name should be (your name_issue or feature name) ex. subrata_navbar
 - after writing complete right code create a pull request
 - repeat if you want to contribute more
 
